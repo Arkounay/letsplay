@@ -38,8 +38,8 @@
         games: [
           {title: 'Smite', cover: 'static/games/smite.png', enabled: true, steamCode: 'steam://run/386360'},
           {title: 'Overwatch', cover: 'static/games/overwatch.png', enabled: true},
-          {title: 'Trine 3', cover: 'static/games/trine3.png', enabled: true, steamCode: 'steam://run/319910'},
-          {title: 'Diablo 3', cover: 'static/games/diablo3.png', enabled: true},
+          {title: 'PUBG', cover: 'static/games/pubg.png', enabled: true, steamCode: 'steam://run/578080'},
+          {title: 'Worms W.M.D', cover: 'static/games/worms.png', enabled: true, steamCode: 'steam://run/327030'},
           {title: 'RLX', cover: 'static/games/rlx.png', enabled: false}
         ],
         chosenGame: null,
